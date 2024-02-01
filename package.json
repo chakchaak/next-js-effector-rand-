@@ -1,0 +1,28 @@
+{
+  "name": "next-pages-router",
+  "description": "ReactNProgress Next Pages Router Example",
+  "keywords": [
+    "@tanem/react-nprogress"
+  ],
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tanem/react-nprogress": "latest",
+    "effector": "23.1.0",
+    "effector-react": "23.1.0",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.5",
+    "@types/react": "18.2.48",
+    "typescript": "4.9.5"
+  }
+}
